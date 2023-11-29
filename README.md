@@ -1,6 +1,6 @@
 # W1 calculations using ROHF-CCSD(T) calculations in Molpro
 
-Details of Q1 calculations done for our paper: 
+Details of W1 calculations done for our paper: 
 
 _Stereo-electronic factors influencing the stability of hydroperoxyalkyl radicals: transferability of chemical trends across hydrocarbons and ab initio methods_              
 Saurabh Chandra Kandpal, Kgalaletso P. Otukile, Shweta Jindal, Salini Senthil, Cameron Matthews, Sabyasachi Chakraborty, Lyudmila V. Moskaleva and Raghunathan Ramakrishnan             
